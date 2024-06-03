@@ -1,5 +1,7 @@
 # Subframes
 
+![animation](./subframes.gif)
+
 Recreation of Freya Holmer's simulated perception of frame rate differences
 using Raylib, as inspired by a video by Tsoding Daily.
 
